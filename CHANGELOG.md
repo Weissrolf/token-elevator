@@ -1,5 +1,5 @@
 ### 1.3.4
-- Switch from GitLab to GitHub.
+- Move from GitLab to GitHub.
 
 ### 1.3.3
 - Bugfix for the bugfix of broken keybindings.
